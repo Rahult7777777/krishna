@@ -1,12 +1,8 @@
 {
-  "restaurant": [
+  "posts": [
     {
       "id": 1,
-      "name": "Krishna",
-    },
-    {
-      "id": 2,
-      "name": "Gopal",
-    },
-  ] 
+      "title": "hello"
+    }
+  ],
 }

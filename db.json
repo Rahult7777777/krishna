@@ -1,11 +1,32 @@
 {
-  "posts": [
+  "restaurant": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "Krishna"
-  }
+      "name": "Krishna",
+      "address" : "Dill",
+      "rating" : "INFI",
+      "email" : "Bhakti"
+    },
+    {
+      "id": 1,
+      "name": "Gopal",
+      "address" : "Dill",
+      "rating" : "INFI",
+      "email" : "Bhakti"
+    },
+    {
+      "id": 1,
+      "name": "MurliDhar",
+      "address" : "Dill",
+      "rating" : "INFI",
+      "email" : "Bhakti"
+    },
+    {
+      "id": 1,
+      "name": "Chor",
+      "address" : "Dill",
+      "rating" : "INFI",
+      "email" : "Bhakti"
+    },
+  ],  
 }
